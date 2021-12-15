@@ -2,3 +2,5 @@
 venv/
 .idea/
 data/
+dataset/
+!/dataset/mnist.py
