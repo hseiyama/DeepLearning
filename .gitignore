@@ -6,3 +6,4 @@ dataset/
 !/dataset/mnist.py
 nnc_basic_01_layer.files/
 nnc_basic_02_cnn.files/
+nnc_basic_03_cnn2.files/
