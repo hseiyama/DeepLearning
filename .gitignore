@@ -8,3 +8,5 @@ dataset/
 nnc_basic_01_layer.files/
 nnc_basic_02_cnn.files/
 nnc_basic_03_cnn2.files/
+nnc_basic_04_ffnn1_dnn.files/
+nnc_basic_05_ffnn2_cnn.files/
